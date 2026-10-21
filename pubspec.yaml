@@ -1,8 +1,7 @@
 name: coincannoncasino
 description: "Coin Cannon Casino - Shoot coins to chain bonuses"
 publish_to: 'none'
-version: 1.0.0+1
-
+version: 1.0.0+2
 environment:
   sdk: ^3.13.5
 
